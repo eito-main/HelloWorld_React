@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+## HelloWorld_React
+Created as an exercise in React language.
+ 
+ 
+## DEMO
+<img width="340" alt="スクリーンショット 2022-07-18 17 04 13" src="https://user-images.githubusercontent.com/69618315/179469675-b25384e6-452e-4468-a2af-179ff9e6f4a5.png">
+
+## Features
+I've created a groundbreaking application...
+ 
+ 
+## Reference
+[https://trap.jp/post/1515/](https://trap.jp/post/1486/)
+ 
+ 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
